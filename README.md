@@ -29,7 +29,7 @@ Ad-hoc analysis and database normalization through 3NF were done. Collaboration 
     month, until the months of November and December. These months saw a drastic reduction in membership growth dropping to 218 members for November (~79.24% reduction from October) and
     12 members for December (94.5% reduction from November)
     
-### **What five groups should the Marketing team feature in their upcoming campaign?**
+### **What five groups should the marketing team feature in their upcoming campaign?**
 
 **Criteria for groups:**
   - Are highly rated
