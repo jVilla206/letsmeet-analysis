@@ -7,10 +7,20 @@ Collaboration with the analytics VP of engineering and director of sales
 
 # Executive Summary
 
+### Overview of Dataset
+* LetsMeet has an average of 732 members per group
+* The most members in one group are 23380 members
+
 # Insights
 ### Ad-Hoc Requests
 
 <img width="880" height="135" alt="image" src="https://github.com/user-attachments/assets/e1445b54-e4d3-4f77-bcba-03874163d1e3" />
+
+**Criteria for groups:**
+  - Are highly rated
+  - Have a significant number of members
+  - Are representative of a variety of categories
+
 
 ### Entity Relationship Diagram (ERD)
 <img width="789" height="525" alt="image" src="https://github.com/user-attachments/assets/2ffbc1a4-e600-4407-91cd-dafbcb0fc36d" />
